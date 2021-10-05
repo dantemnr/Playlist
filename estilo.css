@@ -1,0 +1,15 @@
+.img-prin{
+    background-image: url(imagenes/fondo-trans.png);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    background-color: #fcfcfc;
+    position: relative;
+}
+.titulo-play{
+    position: absolute;
+    left: 70px;
+    top: 90px;
+    font-size: 35px;
+}
