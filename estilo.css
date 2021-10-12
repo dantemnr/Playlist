@@ -13,3 +13,14 @@
     top: 90px;
     font-size: 35px;
 }
+.art{
+    width: 70px;
+}
+.tam{
+    margin: 0 auto;
+    width: 50%;
+    
+}
+.tam td{
+    text-align: center;
+}
