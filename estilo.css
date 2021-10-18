@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@600&display=swap');
 .img-prin{
     background-image: url(imagenes/fondo-trans.png);
     height: 400px;
@@ -23,4 +24,19 @@
 }
 .tam td{
     text-align: center;
+}
+.logo-cet {
+    margin: auto;
+    height: 100px;
+    padding-top: 30px;
+}
+.cet-footer{
+    height: 190px;
+    background-color: rgba(157, 195, 218, 0.418)
+}
+footer p {
+    text-align: center;
+}
+.letra{
+    font-family: 'Noto Sans Mono', monospace;
 }
