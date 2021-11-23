@@ -40,3 +40,9 @@ footer p {
 .letra{
     font-family: 'Noto Sans Mono', monospace;
 }
+
+.tem {
+    text-align: center;
+    background-color: blue;
+    margin: 20px;
+}
